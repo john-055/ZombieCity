@@ -22,25 +22,29 @@
     <b> Correr por la ciudad matando los zombies y lograr una buena puntuación sin chocar con un zombie u obstaculo. </b>
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 
-    <b> La plataforma: Es un juego elaborado en 3D. </b>
+    <b> La plataforma: Es un juego elaborado en 3D. Que utilizara una base de datos para almacenar información(El puntuaje del jugador). </b>
     
-    <b> Genero: Es un juego de Acción y Aventura. </b>
+    <b> Genero: Es un juego de Acción y Aventura.</b>
     
     <b> Clasificación: Es para personas mayores de 12 años.</b>
     
     <b> Personajes: Zombies(Este es el enemigo). Cazador(Este es el player principal). </b>
     
-    <b> Escenario: Nuestro ecenario es un Background de una ciudad. </b>
+    <b> Escenario: Nuestro escenario comienza con una interfaz de inicio, en el cual nuestro jugador podra seleccionar 3 niveles de jugabilidad.</b>
+    
+    <p> Nivel 1: El primero de ellos es un escenerio con un Background de una ciudad y los enemigos tendran una velocidad normal</p>
+    <p> Nivel 2: El segundo de ellos es un escenerio con un Background de un bosque y los enemigos tendran una velocidad un poco elevada</p>
+    <p> Nivel 3: El tercero de ellos es un escenerio con un Background de un decierto y los enemigos tendran una velocidad muy elevada y se generaran mas enemigos</p>
 - Historia
 
     <b>Un dia normal se desarrollo una infección la cual convertia a las personas en zombies. Es decir, personas muertas con ganas de comer carne humana. Esta infección ocurrio en la ciudad de New York. 
-    En la ciudad vive un cazador el cual paso su adelecencia entrenando y preparandose para ser un cazador Prefesional. Este cazador quiere salir de la ciudad, asi que recorre el camino hasta la salida. Durante el proceso de salida, el cazador se enfrentara con zombies y obstaculos que evitaran que cumpla su objetivo
+    En la ciudad vive un cazador el cual paso su adolecencia entrenando y preparandose para ser un cazador Prefesional. Este cazador quiere salir de la ciudad, asi que recorre el camino hasta la salida. Durante el proceso de salida, el cazador se enfrentara con zombies y obstaculos que evitaran que cumpla su objetivo. Si el cazador llega a morir, este tendra una vida extra con la que podra seguir su recorrido.
     
-    ZOMBIE CITY es un juego que nos permite disparar y saltar de manera continua para poder sobrevivir.</b>
+    ZOMBIE CITY es un juego que nos permite disparar y saltar de manera continua para poder sobrevivir y conseguir un buen puntuaje.</b>
 
 - Personajes
 
-    <b> El cazador: Es el personaje principal del juego.</b>
+    <b> El cazador: Es el personaje principal del juego. Este personaje tendra efectos especiales como lo son los sonidos al saltar o al morir. Tambien tendra efectos vizuales al momento de chocar con un zombie.</b>
     
     <b> Los zombies: Son los enemigos que aparecen durante el camino de la ciudad. Para matar al cazador.</b>
 
@@ -53,6 +57,8 @@
     <b> Si el cazador dispara a un zombie, el zombie debe morir.</b>
     
     <b> Si el zombie u obstaculo tocan al personaje, este debera morir.</b>
+    
+    <b> El jugador solo tendra acceso a 1 vida por cada nivel.</b>
     
 - Pantallas de Juego
 
