@@ -1,4 +1,4 @@
-# Creación de Video Juego
+# Avance del Videojuego
 <p align="center">
     <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
 
@@ -10,15 +10,6 @@
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
-
-
-## Contenido
-
-- [Introducción](#introducción)
-- [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
-- [Autores](#autores)
-- [Copyright](#copyright)
 
 
 ## Introducción
@@ -84,33 +75,11 @@
     <b>Paso7: En este paso comenzaremos a desarrollar lo que son los scripts para el funcionamiento del juego</b>
     
 
-## Código Fuente
 
-* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1">Lección 1</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Desafio">Desafío</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Lecci%C3%B3n1/Prueba">Prueba</a>
-* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2">Lección 2</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Desafio">Desafío</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion2/Prueba">Prueba</a>
-* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3">Lección 3</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Desafio">Desafío</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion3/Prueba">Prueba</a>
-* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion4">Lección 4</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion4/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion4/Laboratorio">Laboratorio</a>
-  * > <a >Desafío</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion4/Prueba">Prueba</a>
-* <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5">Lección 5</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Tutorial">Tutorial</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Laboratorio">Laboratorio</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Desafio">Desafío</a>
-  * > <a href="https://github.com/JuanSalas562/CreacionVideojuegos/tree/main/Leccion5/Prueba">Prueba</a>
+* <a href="https://drive.google.com/drive/folders/1NCqRs7EgFh2T_dLxGyuO1h6d8g4ATSpk?usp=sharing">Carpeta de Avances del Videojuego</a>
+  * > <a href="https://drive.google.com/file/d/16_Ewi62f9Oq25cPjOl2uNqaHuvics_-I/view?usp=sharing">Avance 1 del 4 de noviembre</a>
+  * > <a href="https://drive.google.com/file/d/1Gc5RCYh6risaIyOIFcD_QxglXKJ933xU/view?usp=sharing">Avance 2 del 11 de noviembre</a>
+
 * VideoJuego
   * > <a href="https://github.com/john-055/ZombieCity">Videojuego</a>
 
@@ -120,6 +89,7 @@
 
 ## Autores
 Cabello Salas Juan Carlos
+
 Mendez Lopez Jonathan Anselmo
 
 ## Copyright
