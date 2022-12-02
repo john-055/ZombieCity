@@ -88,6 +88,7 @@
   * > <a href="https://drive.google.com/drive/folders/1NY0FUjD4wsvX64z1COYzdseheIoUUdgG?usp=sharing">Avance 3 del 14 de noviembre</a>
   * > <a href="https://drive.google.com/drive/folders/1w5DozNWtXUqMkQ85ezsIK-0qDzCYZovF?usp=sharing">Avance 4 del 18 de noviembre</a>
   * > <a href="https://drive.google.com/file/d/1X7SxmV5FKJbZXmHIrE0aC7yG86nNvxZz/view?usp=sharing">Avance 5 del 25 de noviembre</a>
+  * > <a href="https://drive.google.com/file/d/1SjeSqZg0OqAu0t61AhiaQkX1532Ov1r4/view?usp=sharing">Ultimo Avance del juego del 2 de diciembre</a>
 
 * VideoJuego
   * > <a href="https://github.com/john-055/ZombieCity">Videojuego</a>
