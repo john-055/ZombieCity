@@ -90,8 +90,8 @@
   * > <a href="https://drive.google.com/file/d/1X7SxmV5FKJbZXmHIrE0aC7yG86nNvxZz/view?usp=sharing">Avance 5 del 25 de noviembre</a>
   * > <a href="https://drive.google.com/file/d/1SjeSqZg0OqAu0t61AhiaQkX1532Ov1r4/view?usp=sharing">Ultimo Avance del juego del 2 de diciembre</a>
 
-* VideoJuego
-  * > <a href="https://github.com/john-055/ZombieCity">Videojuego</a>
+* VideoJuego Desktop
+  * > <a href="https://drive.google.com/file/d/1NZEmmWkbAJ6Oe6Nx42j5eBv--Dak6e2x/view?usp=sharing">Videojuego</a>
 
 ## Planificación
 
